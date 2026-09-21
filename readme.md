@@ -22,7 +22,7 @@
   - [Plant-based cuisine](#plant-based-cuisine)
 
 ## Food-related projects
-- [hellofresh-deals-promo-radar](https://github.com/OwenLi6666/hellofresh-deals-promo-radar) - Open-source meal-kit promo radar: scrapes official public pages into CSV/JSON and a static compare site (https://mealkitdeals.com/).
+- [hellofresh-deals-promo-radar](https://github.com/longlicode/hellofresh-deals-promo-radar) - Open-source meal-kit promo radar: scrapes official public pages into CSV/JSON and a static compare site (https://mealkitdeals.com/).
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
 - [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips.
